@@ -1,0 +1,5 @@
+{
+	"ImportPath": "github.com/mid0111/hello-revel",
+	"GoVersion": "go1.5",
+	"Deps": []
+}
